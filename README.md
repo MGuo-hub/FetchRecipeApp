@@ -2,7 +2,7 @@
 Take Home Project from Fetch
 
 ### Steps to Run the App
-1. Open `FetchRecipeApp.xcodeproj` in Xcode.
+1. Open `FetchRecipeApp.xcodeproj` in Xcode. Minimum Deployment: IOS 16.6.
 2. Run it on the simulator or a connected iphone.
 3. The app will have a list of recipes fetched from the API endpoint. Tapping on any recipe shows a detail popup.
 
